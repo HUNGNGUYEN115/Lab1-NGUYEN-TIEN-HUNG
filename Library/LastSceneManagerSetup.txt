@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/game-math-main/Assets/Scenes/Exercise 1 (template).unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
